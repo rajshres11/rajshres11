@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👨‍💻 All of my projects are available at [https://shresthraj-developer.netlify.app/](https://shresthraj-developer.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-shresthraj.vercel.app/](https://portfolio-shresthraj.vercel.app/)
 
 - 💬 Ask me about **React , Springboot , Java , Database**
 
