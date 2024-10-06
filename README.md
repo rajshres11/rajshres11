@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shresthraj1012001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZwLi5skN6OpH8ICxC4BpGsNLA6rBzGAu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hFx-_SIKR-6u4WgXVNB3688z084xm-_a/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
