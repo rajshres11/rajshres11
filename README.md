@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Medical-App**
+- 🔭 I’m currently working on **BINARY SEARCH**
 
-- 🌱 I’m currently practicing **React Js**
+- 🌱 I’m currently practicing **DSA**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shresthraj.vercel.app/](https://portfolio-shresthraj.vercel.app/)
 
