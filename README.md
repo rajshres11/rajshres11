@@ -1,40 +1,127 @@
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="coding pic" width="100%"/>
+<!-- TOP ANIMATED BANNER -->
+
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif" width="100%"/>
+
+<!-- NAME HEADER -->
+
 <h1 align="center">Hi 👋, I'm Shresth Raj</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshres11&label=Profile%20views&color=0e75b6&style=flat" alt="rajshres11" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajshres11&theme=tokyonight" alt="rajshres11" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">🚀 Java Backend Developer | Spring Boot | React</h3>
 
+<!-- TYPING EFFECT -->
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **BINARY SEARCH**
-
-- 🌱 I’m currently practicing **DSA**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-shresthraj.vercel.app/](https://portfolio-shresthraj.vercel.app/)
-
-- 💬 Ask me about **React , Springboot , Java , Database**
-
-- 📫 How to reach me **shresthraj1012001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pHIilS6qy5GX0NcyqF0aZYwSYXJTSk_4/view?usp=drivesdk)
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shresth-raj-632355216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shresth-raj-632355216" height="30" width="40" /></a>
-<a href="https://instagram.com/_shresth_sarraf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shresth_sarraf_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+Expert;JDBC+%7C+Servlet+%7C+REST+APIs;Building+Scalable+Applications;Future+System+Design+Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajshres11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rajshres11" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajshres11&show_icons=true&locale=en&theme=tokyonight" alt="rajshres11" /></p>
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajshres11&&theme=tokyonight" alt="rajshres11" /></p>
+* 🔭 Working on **Restaurant Web Application**
+* 🌱 Deep diving into **Spring Boot & Backend Systems**
+* 🧠 Strong understanding of **Java Backend Stack**
+* 💡 Focused on **Clean Architecture & APIs**
+* 👨‍💻 Portfolio:
+  👉 https://portfolio-shresthraj.vercel.app/
+* 📄 Resume:
+  👉 https://drive.google.com/file/d/1ju8_JYWMSUQPhjrFAG7wyNxTnRK_cgyy/view
+* 📫 Email: **[shresthraj1012001@gmail.com](mailto:shresthraj1012001@gmail.com)**
+
+---
+
+## ⚡ Backend Mastery Flow
+
+```txt id="flow91"
+JDBC → Database Connectivity  
+Servlet → Request Handling  
+Hibernate → ORM Mapping  
+Spring Boot → Scalable Application Framework  
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+<img src="https://img.shields.io/badge/Servlet-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+</p>
+
+---
+
+## 📊 Developer Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajshres11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rajshres11&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajshres11&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Code Identity
+
+```javascript id="code77"
+const shresth = {
+  backend: ["Java", "Spring Boot", "Hibernate", "JDBC", "Servlet"],
+  frontend: ["React"],
+  database: ["MySQL", "Oracle"],
+  strength: "Backend Architecture",
+  goal: "Top Backend Engineer 🚀"
+};
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/shresth-raj-632355216">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/_shresth_sarraf_">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+---
+
+<!-- FOOTER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
