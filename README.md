@@ -24,7 +24,7 @@
 * 🧠 Strong understanding of **Java Backend Stack**
 * 💡 Focused on **Clean Architecture & APIs**
 * 👨‍💻 Portfolio:
-  👉 https://shresthrajportfolio.lovable.app/
+  👉 https://shresthraj.lovable.app/
 * 📄 Resume:
   👉 
 * 📫 Email: **[shresthraj1012001@gmail.com](mailto:shresthraj1012001@gmail.com)**
