@@ -19,12 +19,12 @@
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-* 🔭 Working on **Restaurant Web Application**
+* 🔭 Working on **AI-LMS**
 * 🌱 Deep diving into **Spring Boot & Backend Systems**
 * 🧠 Strong understanding of **Java Backend Stack**
 * 💡 Focused on **Clean Architecture & APIs**
 * 👨‍💻 Portfolio:
-  👉 https://shresthraj.lovable.app/
+  👉 https://shresthraj-portfolio.vercel.app/
 * 📄 Resume:
   👉 
 * 📫 Email: **[shresthraj1012001@gmail.com](mailto:shresthraj1012001@gmail.com)**
